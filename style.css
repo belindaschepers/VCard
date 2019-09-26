@@ -1,0 +1,74 @@
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.title {
+    font-size: 12px;
+}
+
+.page {
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px;
+    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 4px 3px black;
+    background-color: #FFFFFF;
+    color: #080c10;
+}
+
+body {
+    background-image: url("https://images8.alphacoders.com/609/609982.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.skills {
+    float: right;
+    position: relative;
+    bottom: 250px;
+    right: 30%;
+}
+
+ul {
+    font-size: 15px;
+}
+
+.linkbutton {
+    width: 80px;
+    height: 80px;
+    float: right;
+    position: relative;
+    bottom: 50px;
+}
+
+.gitbutton {
+    width: 50px;
+    height: 50px;
+    float: right;
+    position: relative;
+    bottom: 35px;
+}
+
+.sociallinks {
+    position: relative;
+    left: 20%;
+}
+
+.cv {
+    text-decoration: underline;
+    color:black;
+  }
+  a:visited {
+    color:darkslategrey;
+  }
+  a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: white;
+    background:black;
+  }
+}
